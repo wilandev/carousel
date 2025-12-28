@@ -1,3 +1,4 @@
+![Project ready](https://img.shields.io/badge/Done-green)
 # Carousel image
 
 ### Objective 
